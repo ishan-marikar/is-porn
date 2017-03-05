@@ -1,0 +1,34 @@
+{
+  "name": "is-porn",
+  "version": "0.9.0",
+  "description": "A simple node-js module that identifies if a particular domain name has adult content.",
+  "main": "index.js",
+  "keywords": [
+    "porn",
+    "is porn",
+    "filter",
+    "opendns",
+    "dns"
+  ],
+  "author": "Ishan Marikar",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^2.6.1",
+    "nslookup": "^1.1.1"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishan-marikar/is-porn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ishan-marikar/is-porn/issues"
+  },
+  "homepage": "https://github.com/ishan-marikar/is-porn#readme"
+}
