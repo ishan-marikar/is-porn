@@ -1,6 +1,8 @@
 is-porn
 =======
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ishan-marikar/is-porn.svg)](https://greenkeeper.io/)
+
 A simple node-js module that identifies if a particular domain name has adult content.
 Currently only works on node (doesn't support the browser yet).
 
