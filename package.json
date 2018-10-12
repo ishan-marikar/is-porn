@@ -13,7 +13,7 @@
   "author": "Ishan Marikar",
   "license": "ISC",
   "dependencies": {
-    "debug": "^2.6.1",
+    "debug": "^2.6.9",
     "nslookup": "^1.1.1"
   },
   "directories": {
